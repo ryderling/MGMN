@@ -6,6 +6,7 @@
 In this paper, we propose a Multi-Level Graph Matching Network (MGMN) framework for computing the graph similarity between any pair of graph-structured objects in an end-to-end fashion. 
 MGMN consists of a node-graph matching network for effectively learning cross-level interactions between each node of one graph and the other
 whole graph, and a siamese graph neural network to learn global-level interactions between two input graphs.
+
 ![system](./model.png)
 
 ### 1.1 citation:
@@ -18,7 +19,7 @@ Xiang Ling, Lingfei Wu, Saizhuo Wang, Tengfei Ma, Fangli Xu, Chunming Wu and Sho
     publisher={IEEE},
     volume={},
     number={},
-    pages={--},
+    pages={},
     url={},
     year={2021}
   }
