@@ -1,26 +1,26 @@
-# Multi-Level Graph Matching Networks for Deep Graph Similarity Learning
+# Multilevel Graph Matching Networks for Deep Graph Similarity Learning
 
 
 ## 1. Description
 
-In this paper, we propose a Multi-Level Graph Matching Network (MGMN) framework for computing the graph similarity between any pair of graph-structured objects in an end-to-end fashion. 
+In this paper, we propose a Multilevel Graph Matching Network (MGMN) framework for computing the graph similarity between any pair of graph-structured objects in an end-to-end fashion. 
 MGMN consists of a node-graph matching network for effectively learning cross-level interactions between each node of one graph and the other
 whole graph, and a siamese graph neural network to learn global-level interactions between two input graphs.
 
 ![system](./model.png)
 
 ### 1.1 citation:
-Xiang Ling, Lingfei Wu, Saizhuo Wang, Tengfei Ma, Fangli Xu, Chunming Wu and Shouling Ji, **Multi-level Graph Matching Networks for Deep Graph Similarity Learning**, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021
+Xiang Ling, Lingfei Wu, Saizhuo Wang, Tengfei Ma, Fangli Xu, Chunming Wu and Shouling Ji, **Multilevel Graph Matching Networks for Deep Graph Similarity Learning**, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021
  ``` 
   @article{ling2021multilevel,
-    title={Multi-Level Graph Matching Networks for Deep Graph Similarity Learning},
+    title={Multilevel Graph Matching Networks for Deep Graph Similarity Learning},
     author={Ling, Xiang and Wu, Lingfei and Wang, Saizhuo and Ma, Tengfei and Xu, Fangli and Liu, Alex X and Wu, Chunming and Ji, Shouling},
     journal={IEEE Transactions on Neural Networks and Learning Systems (TNNLS)},
     publisher={IEEE},
     volume={},
     number={},
     pages={},
-    url={},
+    url={https://ieeexplore.ieee.org/document/9516695},
     year={2021}
   }
  ```
